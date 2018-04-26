@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerSeries</string>
+    <string name="ver">ver</string>
+    <string name="anime">anime</string>
 </resources>
